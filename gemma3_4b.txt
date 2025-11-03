@@ -1,1 +1,0 @@
-Using image im1.png, ask gemma 3
